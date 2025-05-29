@@ -117,6 +117,7 @@
     font-family: var(--h1-font);
     margin: 0;
     font-size: 30px;
+    display: block;
   }
 
   footer a {
@@ -187,6 +188,11 @@
     margin: 0 auto;
     padding: 30px 60px 60px;
   }
+
+  .section-heading {
+    padding-bottom: 40px;
+    text-align: center;
+  }
   
   .project-card {
     background: var(--white);
@@ -211,6 +217,7 @@
   
   .project-card h2 {
     margin: 0.5rem 0;
+    font-size: 30px;
   }
   
   .links {
