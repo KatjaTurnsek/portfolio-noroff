@@ -306,6 +306,14 @@
   .projects {
     padding: 30px;
   }
+
+  footer p {
+    font-size: 20px;
+  }
+
+  footer a {
+    font-size: 20px;
+  }
 }
   
   
