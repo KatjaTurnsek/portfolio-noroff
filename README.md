@@ -1,32 +1,47 @@
-# Portfolio 1 – Noroff Frontend Development
-This is a single-page portfolio website built for the Portfolio 1 course assignment. It showcases three selected projects from the first year of the Noroff Frontend Development programme.
-
-## 🌐 Live Site
-
-[View the Portfolio Website] (https://katjaturnsek.github.io/portfolio-noroff/)
-
-## 🧾 Project Description
-
-The site presents brief teasers and links to each project, including GitHub repositories and live demos. It also includes a downloadable reflection PDF with insights and self-assessment for each project.
-
-## 🛠️ Tech Stack
-
-- HTML
-- CSS
-- JavaScript
-- Noroff API
-
-
-## 🔗 Featured Projects
-
-- **Rainydays** – E-commerce product page with responsive layout, cart and API integration.
-- **Semester Project 1** – Community science museum homepage with interactive content.
-- **Exam Project 1** – Blog with article pages, admin features, and API integration.
-
-## 🖼️ Preview
+# Portfolio
 
 ![Portfolio Preview](assets/images/portfolio-preview.webp)
 
+A single-page portfolio site built for the Portfolio 1 assignment at Noroff. It showcases three selected projects from the first year of the Frontend Development programme, along with a personal reflection.
+
+## 🌐 Live Site
+
+[https://katjaturnsek.github.io/portfolio-noroff/](https://katjaturnsek.github.io/portfolio-noroff/)
+
+## 💻 GitHub Repository
+
+[https://github.com/KatjaTurnsek/portfolio-noroff](https://github.com/KatjaTurnsek/portfolio-noroff)
+
+## 📝 Description
+
+This site introduces key projects completed during the first year of study, each presented with a short summary, project preview, and links to both the GitHub repo and live demo. It reflects my growth in frontend technologies and project execution.
+
+Also included is a downloadable PDF reflection covering insights and self-assessment across the featured work.
+
+### 🔗 Featured Projects
+
+- **Rainydays**  
+  E-commerce product page with a responsive layout, shopping cart functionality, and API integration.
+
+- **Semester Project 1**  
+  Informational website for a fictional science museum, focused on accessibility, content structure, and clean layout.
+
+- **Exam Project 1 (Agility Bandits Blog)**  
+  A blog-style site using the Noroff API, featuring dynamic posts, a carousel, and admin features.
+
+## 🛠️ Tech Stack
+
+- HTML5  
+- CSS3  
+- JavaScript  
+- Noroff Blog API  
+
 ## 📄 Reflection PDF
 
-[Read the Reflection Document](assets/pdf/portfolio-reflection.pdf)
+[📘 Read the Reflection Document](assets/pdf/portfolio-reflection.pdf)
+
+## 🙋‍♀️ Author
+
+**Katja Turnšek**  
+Frontend Development Student at Noroff  
+[Visit my Portfolio Site](https://katjaturnsek.github.io/portfolio-noroff/)
